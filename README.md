@@ -4,7 +4,7 @@ I'm currently working on Cara is a responsive and modern front-end template for 
 
 ## 🚀 Demo
 
-Check out the live site:(https://Mansisharma002.github.io/Ecommerce-Website)  
+Check out the live site:(https://github.com/MansiSharma11/Ecommerce-Website/tree/main)  
 
 ## 📦 Features
 
