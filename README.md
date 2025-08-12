@@ -5,7 +5,6 @@ I'm currently working on Cara is a responsive and modern front-end template for 
 ## 🚀 Demo
 
 Check out the live site:(https://Mansisharma002.github.io/Ecommerce-Website)  
-*(Replace with your actual GitHub Pages link once deployed.)*
 
 ## 📦 Features
 
@@ -25,8 +24,6 @@ Check out the live site:(https://Mansisharma002.github.io/Ecommerce-Website)
 - Font Awesome (Icons)
 
 ## 📁 Project Structure
-
-```text
 /
 ├── index.html         # Homepage
 ├── shop.html          # Product listing page
